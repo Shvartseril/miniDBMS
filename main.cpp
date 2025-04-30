@@ -1,7 +1,6 @@
 #include "database.h"
 
 
-
 void test() {
 	Database database;
 
